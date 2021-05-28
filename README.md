@@ -1,1 +1,4 @@
 # CucumberRestAssuredApi
+
+
+CUCUMBER_PUBLISH_TOKEN=ccc27711-188f-4372-b427-06eb717b5deb
