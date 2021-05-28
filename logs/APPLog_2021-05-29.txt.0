@@ -1,0 +1,331 @@
+2021-05-29 03:40:38.043
+
+[@MapsAPI, @TestAPI] STARTED
+DATE TIME: 2021-05-29 03:40:38.064
+FEATURE: file:///D:/RestAssured/CucumberRestAssured/src/test/resources/FeatureFiles/ValidatePlaceAPI.feature:6
+SCENARIO: Validate add place api
+Exception From : getData : utils : java.io.FileNotFoundException: testdata\EndPoints.properties (The system cannot find the path specified)
+Properties file is not present 
+STATUS: FAILED
+2021-05-29 03:40:41.893
+DATE TIME: 2021-05-29 03:40:41.894
+SCENARIO: verify delete a work place in maps
+STATUS: FAILED
+2021-05-29 03:40:41.947
+
+[@MapsAPI, @TestAPI1] STARTED
+DATE TIME: 2021-05-29 03:40:41.949
+FEATURE: file:///D:/RestAssured/CucumberRestAssured/src/test/resources/FeatureFiles/ValidatePlaceAPI.feature:33
+SCENARIO: Validate add place api
+STATUS: FAILED
+2021-05-29 03:40:42.001
+DATE TIME: 2021-05-29 03:40:42.002
+SCENARIO: Validate add place api
+STATUS: FAILED
+2021-05-29 03:40:42.055
+
+[@MapsAPI, @DeleteAPI] STARTED
+DATE TIME: 2021-05-29 03:40:42.059
+FEATURE: file:///D:/RestAssured/CucumberRestAssured/src/test/resources/FeatureFiles/ValidatePlaceAPI.feature:37
+SCENARIO: verify delete a work place in maps
+STATUS: FAILED
+2021-05-29 03:40:42.127
+
+[@MapsAPI, @TestAPIDelete] STARTED
+DATE TIME: 2021-05-29 03:40:42.132
+FEATURE: file:///D:/RestAssured/CucumberRestAssured/src/test/resources/FeatureFiles/ValidatePlaceAPI.feature:58
+SCENARIO: Validate add place api
+STATUS: FAILED
+2021-05-29 03:40:42.168
+DATE TIME: 2021-05-29 03:40:42.169
+SCENARIO: Validate add place api
+STATUS: FAILED
+2021-05-29 03:40:42.227
+
+[@MapsAPI, @GetPlaceAPI] STARTED
+DATE TIME: 2021-05-29 03:40:42.229
+FEATURE: file:///D:/RestAssured/CucumberRestAssured/src/test/resources/FeatureFiles/ValidatePlaceAPI.feature:62
+SCENARIO: verify get place api call
+STATUS: FAILED
+2021-05-29 03:45:21.724
+
+[@MapsAPI, @TestAPI] STARTED
+DATE TIME: 2021-05-29 03:45:21.774
+FEATURE: file:///D:/RestAssured/CucumberRestAssured/src/test/resources/FeatureFiles/ValidatePlaceAPI.feature:6
+SCENARIO: Validate add place api
+STATUS: PASSED
+2021-05-29 03:45:27.377
+DATE TIME: 2021-05-29 03:45:27.377
+SCENARIO: verify delete a work place in maps
+STATUS: PASSED
+2021-05-29 03:45:29.529
+
+[@MapsAPI, @TestAPI1] STARTED
+DATE TIME: 2021-05-29 03:45:29.531
+FEATURE: file:///D:/RestAssured/CucumberRestAssured/src/test/resources/FeatureFiles/ValidatePlaceAPI.feature:33
+SCENARIO: Validate add place api
+STATUS: PASSED
+2021-05-29 03:45:31.646
+DATE TIME: 2021-05-29 03:45:31.647
+SCENARIO: Validate add place api
+STATUS: PASSED
+2021-05-29 03:45:33.701
+
+[@MapsAPI, @DeleteAPI] STARTED
+DATE TIME: 2021-05-29 03:45:33.703
+FEATURE: file:///D:/RestAssured/CucumberRestAssured/src/test/resources/FeatureFiles/ValidatePlaceAPI.feature:37
+SCENARIO: verify delete a work place in maps
+STATUS: PASSED
+2021-05-29 03:45:35.767
+
+[@MapsAPI, @TestAPIDelete] STARTED
+DATE TIME: 2021-05-29 03:45:35.769
+FEATURE: file:///D:/RestAssured/CucumberRestAssured/src/test/resources/FeatureFiles/ValidatePlaceAPI.feature:58
+SCENARIO: Validate add place api
+STATUS: PASSED
+2021-05-29 03:45:38.113
+DATE TIME: 2021-05-29 03:45:38.114
+SCENARIO: Validate add place api
+STATUS: PASSED
+2021-05-29 03:45:40.469
+
+[@MapsAPI, @GetPlaceAPI] STARTED
+DATE TIME: 2021-05-29 03:45:40.470
+FEATURE: file:///D:/RestAssured/CucumberRestAssured/src/test/resources/FeatureFiles/ValidatePlaceAPI.feature:62
+SCENARIO: verify get place api call
+STATUS: PASSED
+2021-05-29 03:56:09.398
+
+[@MapsAPI, @TestAPI] STARTED
+DATE TIME: 2021-05-29 03:56:09.419
+FEATURE: file:///D:/RestAssured/CucumberRestAssured/src/test/resources/FeatureFiles/ValidatePlaceAPI.feature:6
+SCENARIO: Validate add place api
+STATUS: FAILED
+2021-05-29 03:56:11.115
+DATE TIME: 2021-05-29 03:56:11.116
+SCENARIO: verify delete a work place in maps
+STATUS: FAILED
+2021-05-29 03:56:11.132
+
+[@MapsAPI, @TestAPI1] STARTED
+DATE TIME: 2021-05-29 03:56:11.134
+FEATURE: file:///D:/RestAssured/CucumberRestAssured/src/test/resources/FeatureFiles/ValidatePlaceAPI.feature:33
+SCENARIO: Validate add place api
+STATUS: FAILED
+2021-05-29 03:56:11.153
+DATE TIME: 2021-05-29 03:56:11.155
+SCENARIO: Validate add place api
+STATUS: FAILED
+2021-05-29 03:56:11.175
+
+[@MapsAPI, @DeleteAPI] STARTED
+DATE TIME: 2021-05-29 03:56:11.176
+FEATURE: file:///D:/RestAssured/CucumberRestAssured/src/test/resources/FeatureFiles/ValidatePlaceAPI.feature:37
+SCENARIO: verify delete a work place in maps
+STATUS: FAILED
+2021-05-29 03:56:11.193
+
+[@MapsAPI, @TestAPIDelete] STARTED
+DATE TIME: 2021-05-29 03:56:11.195
+FEATURE: file:///D:/RestAssured/CucumberRestAssured/src/test/resources/FeatureFiles/ValidatePlaceAPI.feature:58
+SCENARIO: Validate add place api
+STATUS: FAILED
+2021-05-29 03:56:11.212
+DATE TIME: 2021-05-29 03:56:11.213
+SCENARIO: Validate add place api
+STATUS: FAILED
+2021-05-29 03:56:11.226
+
+[@MapsAPI, @GetPlaceAPI] STARTED
+DATE TIME: 2021-05-29 03:56:11.228
+FEATURE: file:///D:/RestAssured/CucumberRestAssured/src/test/resources/FeatureFiles/ValidatePlaceAPI.feature:62
+SCENARIO: verify get place api call
+STATUS: FAILED
+2021-05-29 03:57:06.213
+
+[@MapsAPI, @TestAPI] STARTED
+DATE TIME: 2021-05-29 03:57:06.232
+FEATURE: file:///D:/RestAssured/CucumberRestAssured/src/test/resources/FeatureFiles/ValidatePlaceAPI.feature:6
+SCENARIO: Validate add place api
+STATUS: FAILED
+2021-05-29 03:57:07.988
+DATE TIME: 2021-05-29 03:57:07.989
+SCENARIO: verify delete a work place in maps
+STATUS: FAILED
+2021-05-29 03:57:08.008
+
+[@MapsAPI, @TestAPI1] STARTED
+DATE TIME: 2021-05-29 03:57:08.010
+FEATURE: file:///D:/RestAssured/CucumberRestAssured/src/test/resources/FeatureFiles/ValidatePlaceAPI.feature:33
+SCENARIO: Validate add place api
+STATUS: FAILED
+2021-05-29 03:57:08.034
+DATE TIME: 2021-05-29 03:57:08.035
+SCENARIO: Validate add place api
+STATUS: FAILED
+2021-05-29 03:57:08.056
+
+[@MapsAPI, @DeleteAPI] STARTED
+DATE TIME: 2021-05-29 03:57:08.058
+FEATURE: file:///D:/RestAssured/CucumberRestAssured/src/test/resources/FeatureFiles/ValidatePlaceAPI.feature:37
+SCENARIO: verify delete a work place in maps
+STATUS: FAILED
+2021-05-29 03:57:08.073
+
+[@MapsAPI, @TestAPIDelete] STARTED
+DATE TIME: 2021-05-29 03:57:08.076
+FEATURE: file:///D:/RestAssured/CucumberRestAssured/src/test/resources/FeatureFiles/ValidatePlaceAPI.feature:58
+SCENARIO: Validate add place api
+STATUS: FAILED
+2021-05-29 03:57:08.098
+DATE TIME: 2021-05-29 03:57:08.099
+SCENARIO: Validate add place api
+STATUS: FAILED
+2021-05-29 03:57:08.126
+
+[@MapsAPI, @GetPlaceAPI] STARTED
+DATE TIME: 2021-05-29 03:57:08.130
+FEATURE: file:///D:/RestAssured/CucumberRestAssured/src/test/resources/FeatureFiles/ValidatePlaceAPI.feature:62
+SCENARIO: verify get place api call
+STATUS: FAILED
+2021-05-29 03:57:23.772
+
+[@MapsAPI, @TestAPI] STARTED
+DATE TIME: 2021-05-29 03:57:23.789
+FEATURE: file:///D:/RestAssured/CucumberRestAssured/src/test/resources/FeatureFiles/ValidatePlaceAPI.feature:6
+SCENARIO: Validate add place api
+STATUS: PASSED
+2021-05-29 03:57:29.347
+DATE TIME: 2021-05-29 03:57:29.348
+SCENARIO: verify delete a work place in maps
+STATUS: PASSED
+2021-05-29 03:57:31.476
+
+[@MapsAPI, @TestAPI1] STARTED
+DATE TIME: 2021-05-29 03:57:31.478
+FEATURE: file:///D:/RestAssured/CucumberRestAssured/src/test/resources/FeatureFiles/ValidatePlaceAPI.feature:33
+SCENARIO: Validate add place api
+STATUS: PASSED
+2021-05-29 03:57:33.617
+DATE TIME: 2021-05-29 03:57:33.618
+SCENARIO: Validate add place api
+STATUS: PASSED
+2021-05-29 03:57:35.675
+
+[@MapsAPI, @DeleteAPI] STARTED
+DATE TIME: 2021-05-29 03:57:35.676
+FEATURE: file:///D:/RestAssured/CucumberRestAssured/src/test/resources/FeatureFiles/ValidatePlaceAPI.feature:37
+SCENARIO: verify delete a work place in maps
+STATUS: PASSED
+2021-05-29 03:57:37.721
+
+[@MapsAPI, @TestAPIDelete] STARTED
+DATE TIME: 2021-05-29 03:57:37.722
+FEATURE: file:///D:/RestAssured/CucumberRestAssured/src/test/resources/FeatureFiles/ValidatePlaceAPI.feature:58
+SCENARIO: Validate add place api
+STATUS: PASSED
+2021-05-29 03:57:40.009
+DATE TIME: 2021-05-29 03:57:40.010
+SCENARIO: Validate add place api
+STATUS: PASSED
+2021-05-29 03:57:42.359
+
+[@MapsAPI, @GetPlaceAPI] STARTED
+DATE TIME: 2021-05-29 03:57:42.360
+FEATURE: file:///D:/RestAssured/CucumberRestAssured/src/test/resources/FeatureFiles/ValidatePlaceAPI.feature:62
+SCENARIO: verify get place api call
+STATUS: PASSED
+2021-05-29 04:02:03.272
+
+[@MapsAPI, @TestAPI] STARTED
+DATE TIME: 2021-05-29 04:02:03.290
+FEATURE: file:///D:/RestAssured/CucumberRestAssured/src/test/resources/FeatureFiles/ValidatePlaceAPI.feature:6
+SCENARIO: Validate add place api
+STATUS: PASSED
+2021-05-29 04:02:08.917
+DATE TIME: 2021-05-29 04:02:08.918
+SCENARIO: verify delete a work place in maps
+STATUS: PASSED
+2021-05-29 04:02:11.067
+
+[@MapsAPI, @TestAPI1] STARTED
+DATE TIME: 2021-05-29 04:02:11.068
+FEATURE: file:///D:/RestAssured/CucumberRestAssured/src/test/resources/FeatureFiles/ValidatePlaceAPI.feature:33
+SCENARIO: Validate add place api
+STATUS: PASSED
+2021-05-29 04:02:13.156
+DATE TIME: 2021-05-29 04:02:13.157
+SCENARIO: Validate add place api
+STATUS: PASSED
+2021-05-29 04:02:15.155
+
+[@MapsAPI, @DeleteAPI] STARTED
+DATE TIME: 2021-05-29 04:02:15.157
+FEATURE: file:///D:/RestAssured/CucumberRestAssured/src/test/resources/FeatureFiles/ValidatePlaceAPI.feature:37
+SCENARIO: verify delete a work place in maps
+STATUS: PASSED
+2021-05-29 04:02:17.259
+
+[@MapsAPI, @TestAPIDelete] STARTED
+DATE TIME: 2021-05-29 04:02:17.261
+FEATURE: file:///D:/RestAssured/CucumberRestAssured/src/test/resources/FeatureFiles/ValidatePlaceAPI.feature:58
+SCENARIO: Validate add place api
+STATUS: PASSED
+2021-05-29 04:02:19.599
+DATE TIME: 2021-05-29 04:02:19.600
+SCENARIO: Validate add place api
+STATUS: PASSED
+2021-05-29 04:02:21.963
+
+[@MapsAPI, @GetPlaceAPI] STARTED
+DATE TIME: 2021-05-29 04:02:21.965
+FEATURE: file:///D:/RestAssured/CucumberRestAssured/src/test/resources/FeatureFiles/ValidatePlaceAPI.feature:62
+SCENARIO: verify get place api call
+STATUS: PASSED
+2021-05-29 04:08:27.607
+
+[@MapsAPI, @TestAPI] STARTED
+DATE TIME: 2021-05-29 04:08:27.623
+FEATURE: file:///D:/RestAssured/CucumberRestAssured/src/test/resources/FeatureFiles/ValidatePlaceAPI.feature:6
+SCENARIO: Validate add place api
+STATUS: PASSED
+2021-05-29 04:08:33.199
+DATE TIME: 2021-05-29 04:08:33.200
+SCENARIO: verify delete a work place in maps
+STATUS: PASSED
+2021-05-29 04:08:35.394
+
+[@MapsAPI, @TestAPI1] STARTED
+DATE TIME: 2021-05-29 04:08:35.397
+FEATURE: file:///D:/RestAssured/CucumberRestAssured/src/test/resources/FeatureFiles/ValidatePlaceAPI.feature:33
+SCENARIO: Validate add place api
+STATUS: PASSED
+2021-05-29 04:08:37.616
+DATE TIME: 2021-05-29 04:08:37.617
+SCENARIO: Validate add place api
+STATUS: PASSED
+2021-05-29 04:08:39.655
+
+[@MapsAPI, @DeleteAPI] STARTED
+DATE TIME: 2021-05-29 04:08:39.657
+FEATURE: file:///D:/RestAssured/CucumberRestAssured/src/test/resources/FeatureFiles/ValidatePlaceAPI.feature:37
+SCENARIO: verify delete a work place in maps
+STATUS: PASSED
+2021-05-29 04:08:41.747
+
+[@MapsAPI, @TestAPIDelete] STARTED
+DATE TIME: 2021-05-29 04:08:41.748
+FEATURE: file:///D:/RestAssured/CucumberRestAssured/src/test/resources/FeatureFiles/ValidatePlaceAPI.feature:58
+SCENARIO: Validate add place api
+STATUS: PASSED
+2021-05-29 04:08:44.142
+DATE TIME: 2021-05-29 04:08:44.144
+SCENARIO: Validate add place api
+STATUS: PASSED
+2021-05-29 04:08:46.474
+
+[@MapsAPI, @GetPlaceAPI] STARTED
+DATE TIME: 2021-05-29 04:08:46.475
+FEATURE: file:///D:/RestAssured/CucumberRestAssured/src/test/resources/FeatureFiles/ValidatePlaceAPI.feature:62
+SCENARIO: verify get place api call
+STATUS: PASSED
